@@ -562,3 +562,5 @@ if __name__ == '__main__':
     dashboard.show()
     dashboard.view_expenses()  # Load expenses on startup
     sys.exit(app.exec_())
+
+    #comment
